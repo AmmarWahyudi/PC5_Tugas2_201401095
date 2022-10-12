@@ -3,4 +3,4 @@
 ### PC 5
 
 > Screenshot tampilan
-https://github.com/AmmarWahyudi/Tampilan/issues/2#issue-1405919968
+<img width="960" alt="PC5_Tugas2" src="https://user-images.githubusercontent.com/77378835/195312239-f9cae63b-89b8-4675-9227-06edb125d9cb.png">
