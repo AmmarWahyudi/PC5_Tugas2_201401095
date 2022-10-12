@@ -1,7 +1,6 @@
-# PC5_Tugas2_nim
-### Nama
+# PC5_Tugas2_201401095
+### Ammar Wahyudi
 ### PC 5
 
-
-###### Buatlah web seperti di modul yang memiliki dan ubahlah tampilannya 
-> Screenshot tampilan dimasukkan dalam readme
+> Screenshot tampilan
+https://github.com/AmmarWahyudi/Tampilan/issues/2#issue-1405919968
